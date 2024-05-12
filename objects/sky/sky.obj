@@ -1,6 +1,6 @@
 # Blender v2.93.0 OBJ File: 'SnowTerrain.blend'
 # www.blender.org
-mtllib mdl_sky.mtl
+mtllib objects\sky\mdl_sky.mtl
 o Sphere
 v -4.771561 46.341545 0.000000
 v -9.497169 45.640572 0.000000
