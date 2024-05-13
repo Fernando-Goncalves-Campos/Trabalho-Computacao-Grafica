@@ -1,0 +1,3 @@
+newmtl chest
+	map_Ka objects\chest\chest_basecolor.jpg
+	map_Kd objects\chest\chest_basecolor.jpg
