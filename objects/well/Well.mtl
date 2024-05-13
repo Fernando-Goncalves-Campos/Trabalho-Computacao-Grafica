@@ -1,0 +1,26 @@
+newmtl Well:lambert7SG
+    map_Kd objects\well\wooden_details_Base_Color.tga.png
+
+newmtl Well:lambert8SG
+    map_Kd objects\well\metal_details_Base_Color.tga.png
+
+newmtl Well:lambert9SG
+    map_Kd objects\well\Rope_Base_Color.png
+
+newmtl Well:lambert6SG
+    map_Kd objects\well\roof1_Base_Color.tga.png
+
+newmtl lambert2SG
+    map_Kd objects\well\roof2_Base_Color.tga.png
+
+newmtl Well:lambert11SG
+    map_Kd objects\well\ground_Base_Color.tga.png
+
+newmtl Well:lambert5SG
+    map_Kd objects\well\well_concrete2_Base_Color.tga.png
+
+newmtl Well:lambert4SG
+    map_Kd objects\well\well_concrete1_Base_Color.tga.png
+
+newmtl Well:lambert10SG
+    map_Kd objects\well\bucket_Base_Color.tga.png
