@@ -14,7 +14,7 @@ newmtl lambert2SG
     map_Kd objects\well\roof2_Base_Color.tga.png
 
 newmtl Well:lambert11SG
-    map_Kd objects\well\ground_Base_Color.tga.png
+    map_Kd objects\well\chao.png
 
 newmtl Well:lambert5SG
     map_Kd objects\well\well_concrete2_Base_Color.tga.png
