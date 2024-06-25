@@ -1,3 +1,7 @@
 newmtl chest
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	ns 64
 	map_Ka objects\chest\chest_basecolor.jpg
 	map_Kd objects\chest\chest_basecolor.jpg

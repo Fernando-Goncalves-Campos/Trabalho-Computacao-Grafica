@@ -1,4 +1,7 @@
 newmtl default
-Kd 1 1 1
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+ns 0
 map_Kd objects/stone path/stone_path.png
 

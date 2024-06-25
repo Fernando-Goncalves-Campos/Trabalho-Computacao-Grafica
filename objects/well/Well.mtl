@@ -1,26 +1,62 @@
 newmtl Well:lambert7SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\wooden_details_Base_Color.tga.png
 
 newmtl Well:lambert8SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 1.0000 1.0000 1.0000
+    ns 64
     map_Kd objects\well\metal_details_Base_Color.tga.png
 
 newmtl Well:lambert9SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\Rope_Base_Color.png
 
 newmtl Well:lambert6SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\roof1_Base_Color.tga.png
 
 newmtl lambert2SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\roof2_Base_Color.tga.png
 
 newmtl Well:lambert11SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\chao.png
 
 newmtl Well:lambert5SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\well_concrete2_Base_Color.tga.png
 
 newmtl Well:lambert4SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\well_concrete1_Base_Color.tga.png
 
 newmtl Well:lambert10SG
+    Ka 1.0000 1.0000 1.0000
+    Kd 1.0000 1.0000 1.0000
+    Ks 0.5000 0.5000 0.5000
+    ns 10
     map_Kd objects\well\bucket_Base_Color.tga.png
